@@ -23,6 +23,10 @@
             line-height: 1.3;
             font-family: Menlo, monospace;
         }
+
+        @media (max-width: 499px) {
+            height: 425px;
+        }
     }
 
     a {
